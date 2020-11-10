@@ -1,4 +1,4 @@
-### 👋, peruano de mierda
+### 👋, Me dicen Tulon
 
 <a href="https://twitter.com/tuliotriste">
   <img align="left" alt="TulioTriste" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
