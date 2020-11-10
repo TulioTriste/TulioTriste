@@ -23,5 +23,5 @@
 
 <a href="https://github.com/TulioTriste/FullPvP">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuliotriste&repo=FullPvP&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuliotriste&repo=FullPvP&theme=great-gatsby" />
 </a>
