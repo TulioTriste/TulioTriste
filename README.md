@@ -1,11 +1,11 @@
 ### 👋, peruano de mierda
 
 <a href="https://twitter.com/tuliotriste">
-  <img align="left" alt="Ryzeon" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="TulioTriste" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
-<a href="https://frozed.club/discord">
-  <img align="left" alt="Ryzeon" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://discord.io/panda-community">
+  <img align="left" alt="TulioTriste" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
 <br />
