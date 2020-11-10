@@ -15,7 +15,7 @@
 - 🔭 I’m currently work in Panda Development
   
 <a href="https://github.com/tuliotriste">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tuliotriste&show_icons=true&include_all_commits=true&theme=dark&count_private=true" alt="TulioTriste's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=tuliotriste&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&count_private=true" alt="TulioTriste's github stats" />
 </a>
   
 <br />
