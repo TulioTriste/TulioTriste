@@ -3,14 +3,11 @@
 <img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
 
 # BIO
-CEO on [2LStudios](https://twitter.com/2lstudios), [StrawCI](https://github.com/strawci), [Nfense](https://github.com/nfense), [EnhancedTwitch](https://github.com/enhancedtwitch.com/) and [Dot](https://twitter.com/dotmsn).  
-
-🧮 Lover of Mathematics, ⚛️ Quantum Mechanics/Physics, 🔒 Security  
-☁️ Networking, 🌎 Astronomy, 🧪 Chemistry, 💻 FullStack.  
+CEO on **PandaCommunity** ()
   
-![](https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=tuliotriste&color=blue)
 
-<p align="center">Contact me on Discord: <b>Sammwy#0001</b></p>
+<p align="center">Contact me on Discord: <b>TulioTriviño#6969</b></p>
 
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
