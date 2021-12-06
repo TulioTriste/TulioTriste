@@ -13,8 +13,7 @@ CEO on **PandaCommunity** (![]https://twitter.com/PandaPlugins/)
 <p align="center">A summary of organizations in which I participate.</p>
 
 | <a href="https://github.com/Panda-Community" target="_blank">**Panda Community**</a> |
-|:---: | :---: | :---: | :---:|
-| <img align='center' src='https://cdn.discordapp.com/attachments/861634149357322240/861670405680267294/panda-v2.png' height='100px'>
+ <img align='center' src='https://cdn.discordapp.com/attachments/861634149357322240/861670405680267294/panda-v2.png' height='100px'>
 
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
