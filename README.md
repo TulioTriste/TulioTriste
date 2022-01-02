@@ -1,25 +1,17 @@
-![](https://hit.yhype.me/github/profile?user_id=44925968)
-<img align='left' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/LinkFront_Beat.gif' width='20%'>  
-<img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
+### Helloo 👋
 
-# BIO
-CEO on **PandaCommunity** (![]https://twitter.com/PandaPlugins/)
-  
-![](https://komarev.com/ghpvc/?username=tuliotriste&color=blue)
+![](https://komarev.com/ghpvc/?username=TulioTriste&style=plastic)
+#### I'm TulioTriste/TulioTriviño, I founded & make magic happen for [@PandaPlugins](https://github.com/PandaCommunity).
 
-<p align="center">Contact me on Discord: <b>TulioTriviño#6969</b></p>
+##### BIO
 
-<h2 align="center">Organizations</h2>
-<p align="center">A summary of organizations in which I participate.</p>
+- 🕯️ I have 18 y/o
+- ⚙️ I have 2 years of experience on Java
+- 🏢 I currently own **PandaCommunity**
+- 🎓 I'm school student
+- 📫 Business inquiries: TulioTriviño#6969
+- 💬 You can contact me quicker via [Discord](https://discord.pandacommunity.org/)
 
-| <a href="https://github.com/Panda-Community" target="_blank">**Panda Community**</a> |
- <img align='center' src='https://cdn.discordapp.com/attachments/861634149357322240/861670405680267294/panda-v2.png' height='100px'>
+![Metrics](https://metrics.lecoq.io/TulioTriste?template=classic&languages=1&isocalendar=1&habits=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=18&habits.facts=true&habits.charts=false&habits.trim=false&config.timezone=America%2FSantiago)
 
-<h2 align="center">Skills</h2>
-<p align="center">A summary of my programming skills.</p>
-
-<p align="center">
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/redis.webp' height='42px'>
-</p>
+![](https://hit.yhype.me/github/profile?user_id=50537641)
