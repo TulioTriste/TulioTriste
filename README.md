@@ -6,7 +6,7 @@
 ##### BIO
 
 - 🕯️ I have 18 y/o
-- ⚙️ I have 2 years of experience on Java
+- ⚙️ I have 3 years of experience on Java
 - 🏢 I currently own **PandaCommunity**
 - 🎓 I'm school student
 - 📫 Business inquiries: TulioTriviño#6969
