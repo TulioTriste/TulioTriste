@@ -1,7 +1,7 @@
 ### Helloo 👋
 
 ![](https://komarev.com/ghpvc/?username=TulioTriste&style=plastic)
-#### I'm TulioTriste/TulioTriviño, I founded & make magic happen for [@PandaPlugins](https://github.com/PandaCommunity).
+#### I'm TulioTriste/TulioTriviño, I founded & make magic happen for [@PandaPlugins](https://github.com/Panda-Community).
 
 ##### BIO
 
