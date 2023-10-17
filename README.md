@@ -5,8 +5,8 @@
 
 ##### BIO
 
-- 🕯️ I have 19 y/o
-- ⚙️ I have 3 years of experience on Java
+- 🕯️ I have 20 y/o
+- ⚙️ I have 4 years of experience on Java
 - ⚙️ Professional Developer on Bukkit
 - 🎓 I'm University Student (Computer Engineering)
 - 📫 Business inquiries: Arjona#0643
