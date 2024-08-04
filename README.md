@@ -1,7 +1,7 @@
 ### Helloo 👋
 
 ![](https://komarev.com/ghpvc/?username=TulioTriste&style=plastic)
-#### I'm Sebastián Morales (Arjona [Yes, like Ricardo Arjona])
+#### I'm Sebastián Morales (Arjona)
 
 ##### BIO
 
