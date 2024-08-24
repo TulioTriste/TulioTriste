@@ -5,7 +5,7 @@
 
 ##### BIO
 
-- 🕯️ I have 20 y/o
+- 🕯️ I have 21 y/o
 - ⚙️ I have 4 years of experience on Java
 - ⚙️ Professional Developer on Bukkit
 - 🎓 I'm University Student (Computer Engineering)
