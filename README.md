@@ -29,7 +29,7 @@
 
 ###
 
-<p align="center">I'm Sebastián Morales from Chile 🇨🇱<br><br>- 🔭 I’m working as Indra Company<br>- 📚 I'm currently studying Software Engineer<br>- ⚡ In my free time I play Basketball and spend time with my Family.</p>
+<p align="center">I'm Sebastián Morales from Chile 🇨🇱<br><br>- 📚 I completed my studies in Computer Programming<br>- ⚡ In my free time I play Basketball and spend time with my Family.</p>
 
 ###
 
